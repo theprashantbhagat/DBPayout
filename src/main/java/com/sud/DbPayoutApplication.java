@@ -1,0 +1,13 @@
+package com.sud;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class DbPayoutApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(DbPayoutApplication.class, args);
+	}
+
+}
